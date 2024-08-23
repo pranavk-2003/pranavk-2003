@@ -2,6 +2,7 @@
 
 # Hi, I'm Pranav Kolekar! 👋
 
+🎓 Electronics and Communications Engineering Student
 🔧 **Electronics Lead @ Team Anonymous**  
 🤖 **Robotics Developer | Autonomous Systems Developer**
 
