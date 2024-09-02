@@ -1,5 +1,3 @@
-Here is a combined and polished GitHub Readme for you:
-
 ---
 
 # Hi, I'm Pranav Kolekar! 👋
