@@ -1,38 +1,18 @@
----
+# 💫 About Me:
+I’m currently working on:<br>Developing an autonomous robot for disaster management and defense applications, with a focus on obstacle navigation using ROS2.<br><br>I’m looking to collaborate on:<br>Robotics projects, especially those related to autonomous systems, defense technology. I’m also open to working on embedded systems and IoT solutions.<br><br>I’m looking for help with:<br>Refining my ROS2 skills, particularly in simulation, navigation, and obstacle avoidance for autonomous robots.<br><br>I’m currently learning:<br>Advanced features of ROS2 Humble, as well as improving my simulation skills using Gazebo for autonomous systems.<br><br>Ask me about:<br>Autonomous systems development, ROS2, integrating Jetson Nano for real-world applications, and my experiences leading teams in robotics competitions like Robocon.<br><br>Fun fact:<br>I led my team to victory in both matches at Robocon 2024 through a combination of innovative system design and teamwork!
 
-# Hi, I'm Pranav Kolekar! 👋
 
-🎓 Electronics and Communications Engineering Student
-🔧 **Electronics Lead @ Team Anonymous**  
-🤖 **Robotics Developer | Autonomous Systems Developer**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pranav-kolekar) 
 
----
-
-### About Me
-
-I'm passionate about building autonomous systems, with hands-on experience integrating ROS2 with Jetson Nano and Raspberry Pi for real-world robotics applications. My interests span disaster management robots, defense tech, and everything in between. I love applying my technical knowledge to create solutions that navigate complex environments autonomously.
-
-I have led various projects and contributed to the development of robots and IoT systems in both academic and professional settings. My approach combines solid engineering principles with innovation, improving operational efficiency, and developing reliable hardware-software integrations. Recently, I successfully led my team at Robocon 2024, winning both matches through a combination of robust system design and teamwork.
-
-### Skills
-- **Programming Languages:** Python, MicroPython, C/C++, JavaScript
-- **Robotics:** ROS2-Humble (Intermediate), OpenCV, Gazebo, SLAM, Nav2
-- **Hardware:** Jetson Nano, Raspberry Pi, ESP32, Arduino
-- **Software:** Git, Linux, MATLAB, KiCAD
-- **Developer Tools:** VS Code, PyCharm
-
-### What I'm Up To
-- 🚀 Currently working on developing an autonomous robot capable of navigating obstacle-filled environments for disaster management and defense applications.
-- 🌱 Expanding my knowledge in ROS2 Humble and simulation tools while refining autonomous system designs.
-- 🧑‍💻 Actively seeking **internships and job opportunities** where I can contribute my expertise in robotics, electronics, and embedded systems while continuing to learn and grow.
-
-### Recent Experience
-- **Electronics Lead @ Robocon 2024**: Directed R&D to develop and integrate advanced control systems in robots, winning both matches and improving operational efficiency by 20%.
-- **Electronics Intern @ Canspirit AI**: Streamlined data collection processes with Arduino Cloud and Python, increasing data processing efficiency by 25%.
-- **Electronics Developer @ Indkarta LLP**: Led development of innovative clinical systems, improving accuracy and performance through custom PCB design.
-
-Feel free to check out my projects and connect with me! I'm always open to collaboration and new opportunities.
-
-📫 **Reach out to me at:** pranavkolekar13@gmail.com | [LinkedIn](https://www.linkedin.com/in/pranav-kolekar/) | [GitHub](https://github.com/pranavk-2003)
+# 💻 Tech Stack:
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=pranavk-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pranavk-2003&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk-2003&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=pranavk-2003&icon=1&color=9)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
