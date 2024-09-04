@@ -48,13 +48,6 @@ I’m currently working on:<br>Developing an autonomous robot for disaster manag
 
 ---
 
-### 📊 GitHub Stats:
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranavk-2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![Pranav's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranavk-2003&theme=dark&hide_border=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavk-2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
----
-
 [![](https://visitcount.itsvg.in/api?id=pranavk-2003&icon=1&color=9)](https://visitcount.itsvg.in)
 
 ---
