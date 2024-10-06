@@ -16,7 +16,7 @@ I have led several successful projects in both academic and professional setting
 
 ### Skills
 - **Programming Languages:** Python, MicroPython, C/C++, JavaScript
-- **Robotics:** ROS2-Humble (Intermediate), OpenCV, Gazebo, SLAM, Nav2
+- **Robotics:** ROS/ROS2 (Intermediate), OpenCV, Gazebo, SLAM, Nav2
 - **Hardware:** Jetson Nano, Raspberry Pi, ESP32, Arduino
 - **Software:** Git, Linux, MATLAB, KiCAD
 - **Developer Tools:** VS Code, PyCharm
