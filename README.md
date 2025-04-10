@@ -272,7 +272,10 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60px">
+        <!-- Replace GIF with ROS icon -->
+        <div style="font-size: 30px; color: #F85D7F;">
+          <i class="devicon-ros-plain"></i>
+        </div>
         <h4>ROS2 Humble</h4>
         <div style="background-color: #191919; border-radius: 5px; padding: 2px;">
           <div style="background: linear-gradient(to right, #F85D7F 85%, #191919 15%); width: 100%; height: 20px; border-radius: 4px;"></div>
