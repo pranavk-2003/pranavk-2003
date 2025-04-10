@@ -47,7 +47,8 @@
     </td>
     <td width="45%">
       <div align="center">
-        <img src="https://media.giphy.com/media/2fC9YRbHhYaBHo8THO/giphy.gif" width="100%">
+        <!-- Replace the placeholder text with your actual profile photo -->
+        <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" alt="Pranav Kolekar" width="100%">
         <a href="https://git.io/streak-stats">
           <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavk-2003&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF5900&currStreakNum=95FF61&ring=F6FF91&currStreakLabel=95FF61&sideNums=F6FF91&sideLabels=F6FF91&dates=5BFF9F" width="100%">
         </a>
@@ -68,7 +69,10 @@
         <h3 align="center">Autonomous Exploration & Mapping</h3>
         <div align="center">
           <a href="#">
-            <img src="https://media.giphy.com/media/4GvoqJVUHL5fdgvidL/giphy.gif" alt="Project 1" width="100%" />
+            <!-- Remove placeholder GIF and add descriptive text instead -->
+            <div style="background-color: #1A1B27; border-radius: 6px; padding: 20px; margin-bottom: 15px;">
+              <h4>ROS2-based autonomous navigation system with advanced SLAM capabilities</h4>
+            </div>
           </a>
           <p>
             <a href="#">
@@ -88,7 +92,10 @@
         <h3 align="center">Smart Library Management System</h3>
         <div align="center">
           <a href="#">
-            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVsZXRnZHhobzh0Mmh0d2t2NTFqNzRwYWZ1YnI2emExaG1tNHAxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cHGNtAJJKLx3G/giphy.gif" alt="Project 2" width="100%" />
+            <!-- Remove placeholder GIF and add descriptive text instead -->
+            <div style="background-color: #1A1B27; border-radius: 6px; padding: 20px; margin-bottom: 15px;">
+              <h4>RFID-based library tracking system with real-time monitoring capabilities</h4>
+            </div>
           </a>
           <p>
             <a href="#">
