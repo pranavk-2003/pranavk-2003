@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=PRANAV%20KOLEKAR&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Robotics%20Developer%20|%20Autonomous%20Systems%20Specialist&descAlignY=60&descAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=PRANAV%20KOLEKAR&fontSize=90&animation=fadeIn&fontAlignY=38&desc=ROS2%20Developer%20|%20Autonomous%20Navigation%20Specialist&descAlignY=60&descAlign=50" width="100%">
 </div>
 
 <p align="center">
@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F73F6F&center=true&vCenter=true&random=false&width=600&height=70&lines=Autonomous+Navigation+Expert;Robotics+Competition+Champion;ROS2+Developer;Electronics+Lead+at+Team+Anonymous;Building+the+Future+of+Robotics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F73F6F&center=true&vCenter=true&random=false&width=600&height=70&lines=ROS2+Navigation+Expert;SLAM+%26+Path+Planning+Specialist;Robotics+Competition+Champion;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -35,11 +35,11 @@
   <tr>
     <td width="55%" align="center">
       <p align="left">
-        I'm a <b>Robotics Developer</b> specialized in autonomous navigation systems and embedded electronics. My passion lies in building intelligent robots that can navigate complex environments without human intervention.
+        I'm a <b>ROS2 Developer</b> specialized in building autonomous navigation systems for complex robotics applications. My expertise lies at the intersection of <b>SLAM algorithms</b>, <b>Nav2</b>, and <b>sensor fusion</b> for reliable robot localization and path planning.
         <br><br>
-        With expertise in <b>ROS2</b>, <b>Computer Vision</b>, and <b>Embedded Systems</b>, I develop solutions that bridge the gap between theory and real-world applications in disaster management and defense technology.
+        With deep knowledge of the <b>ROS2 ecosystem</b>, I develop complete robotic stacks from hardware integration to high-level autonomy. My work focuses on creating robust solutions that can navigate challenging environments without human intervention.
         <br><br>
-        Currently working as a <b>Junior Robotics Developer at Ondroid Finland</b> and proudly led <b>Team Anonymous to victory in Robocon 2024</b> by implementing advanced autonomous navigation strategies.
+        Currently working as a <b>Junior Robotics Developer at Ondroid Finland</b> and led <b>Team Anonymous to victory in Robocon 2024</b> by implementing advanced ROS2-based navigation strategies.
       </p>
       <a href="https://pranavkolekar.me">
         <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-brightgreen?style=for-the-badge&logo=safari&logoColor=white">
@@ -47,8 +47,7 @@
     </td>
     <td width="45%">
       <div align="center">
-        <!-- Replace the placeholder text with your actual profile photo -->
-        <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" alt="Pranav Kolekar" width="100%">
+        <img src="https://media.giphy.com/media/2fC9YRbHhYaBHo8THO/giphy.gif" width="100%">
         <a href="https://git.io/streak-stats">
           <img src="https://github-readme-streak-stats.herokuapp.com?user=pranavk-2003&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF5900&currStreakNum=95FF61&ring=F6FF91&currStreakLabel=95FF61&sideNums=F6FF91&sideLabels=F6FF91&dates=5BFF9F" width="100%">
         </a>
@@ -60,55 +59,49 @@
 <!-- Fancy Line -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<h1 align="center">🚀 Highlighted Projects</h1>
+<h1 align="center">🚀 ROS2 Projects & Contributions</h1>
 
 <div class="projects" align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">Autonomous Exploration & Mapping</h3>
+        <h3 align="center">Autonomous Exploration & SLAM</h3>
         <div align="center">
           <a href="#">
-            <!-- Remove placeholder GIF and add descriptive text instead -->
-            <div style="background-color: #1A1B27; border-radius: 6px; padding: 20px; margin-bottom: 15px;">
-              <h4>ROS2-based autonomous navigation system with advanced SLAM capabilities</h4>
-            </div>
+            <img src="https://media.giphy.com/media/4GvoqJVUHL5fdgvidL/giphy.gif" alt="Project 1" width="100%" />
           </a>
           <p>
             <a href="#">
-              <img src="https://img.shields.io/badge/SLAM-58a6ff?style=for-the-badge&logo=ros&logoColor=white" alt="SLAM" />
+              <img src="https://img.shields.io/badge/ROS2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
             </a>
             <a href="#">
-              <img src="https://img.shields.io/badge/Navigation-00599C?style=for-the-badge&logo=ros&logoColor=white" alt="Navigation" />
+              <img src="https://img.shields.io/badge/Nav2-00599C?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2" />
             </a>
             <a href="#">
-              <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+              <img src="https://img.shields.io/badge/SLAM_Toolbox-F58113?style=for-the-badge&logo=ros&logoColor=white" alt="SLAM" />
             </a>
           </p>
-          <p><strong>Developing autonomous navigation for uncharted environments using ROS2 and advanced SLAM</strong></p>
+          <p><strong>Autonomous navigation system for uncharted environments using ROS2 Nav2 and SLAM Toolbox with custom exploration algorithms</strong></p>
         </div>
       </td>
       <td width="50%">
-        <h3 align="center">Smart Library Management System</h3>
+        <h3 align="center">Multi-Robot Coordination System</h3>
         <div align="center">
           <a href="#">
-            <!-- Remove placeholder GIF and add descriptive text instead -->
-            <div style="background-color: #1A1B27; border-radius: 6px; padding: 20px; margin-bottom: 15px;">
-              <h4>RFID-based library tracking system with real-time monitoring capabilities</h4>
-            </div>
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVsZXRnZHhobzh0Mmh0d2t2NTFqNzRwYWZ1YnI2emExaG1tNHAxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2R0cHGNtAJJKLx3G/giphy.gif" alt="Project 2" width="100%" />
           </a>
           <p>
             <a href="#">
-              <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+              <img src="https://img.shields.io/badge/ROS2_Actions-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2 Actions" />
             </a>
             <a href="#">
-              <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython" />
+              <img src="https://img.shields.io/badge/Multi_Robot-00599C?style=for-the-badge&logo=ros&logoColor=white" alt="Multi Robot" />
             </a>
             <a href="#">
-              <img src="https://img.shields.io/badge/RFID-ff9e64?style=for-the-badge" alt="RFID" />
+              <img src="https://img.shields.io/badge/TF2-F58113?style=for-the-badge&logo=ros&logoColor=white" alt="TF2" />
             </a>
           </p>
-          <p><strong>RFID-based library system with real-time monitoring and web interface</strong></p>
+          <p><strong>Distributed robot coordination using ROS2 namespacing, TF2, and custom action interfaces for collaborative tasks</strong></p>
         </div>
       </td>
     </tr>
@@ -120,7 +113,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h1 align="center">💼 Professional Experience</h1>
+<h1 align="center">💼 ROS Experience</h1>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/pranavk-2003/pranavk-2003/output/github-snake-dark.svg" width="100%">
@@ -130,64 +123,57 @@
   <div align="left">
     <table>
       <tr>
-        <td width="15%" align="center">
-          <!-- Replace GIF with simple year text in a styled div -->
-          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
-            <h4 align="center">2025-Present</h4>
-          </div>
+        <td width="15%">
+          <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
+          <h4 align="center">2025-Present</h4>
         </td>
         <td width="85%">
           <h3>Junior Robotics Developer | Ondroid Finland</h3>
           <ul>
-            <li>Developing Python scripts for automated assignment verification using OpenCV</li>
-            <li>Creating technical content for mobile robotics courses utilizing ESP32-based robots</li>
-            <li>Maintaining documentation and version control with Git</li>
+            <li>Creating ROS2-based automation scripts with rclpy for robot control and simulation</li>
+            <li>Developing technical content for ROS2 and mobile robotics courses</li>
+            <li>Implementing computer vision solutions with OpenCV and ROS2 image pipelines</li>
           </ul>
         </td>
       </tr>
       <tr>
-        <td width="15%" align="center">
-          <!-- Replace GIF with simple year text in a styled div -->
-          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
-            <h4 align="center">2024</h4>
-          </div>
+        <td width="15%">
+          <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
+          <h4 align="center">2024</h4>
         </td>
         <td width="85%">
-          <h3>Robotics Lead | Robocon 2024</h3>
+          <h3>ROS2 Lead | Robocon 2024</h3>
           <ul>
-            <li>Led R&D efforts and integrated advanced control systems in competition robots</li>
-            <li>Implemented full ROS2 stack with URDFs, sensors, and autonomous navigation</li>
-            <li>Achieved victory in both matches through innovative system design</li>
+            <li>Architected complete ROS2 solution with custom nodes, services, and action servers</li>
+            <li>Implemented SLAM Toolbox and Nav2 for autonomous navigation and obstacle avoidance</li>
+            <li>Created accurate URDF models with sensor integration for real-time mapping</li>
+            <li>Developed custom ROS2 packages for precise robot control during competition tasks</li>
           </ul>
         </td>
       </tr>
       <tr>
-        <td width="15%" align="center">
-          <!-- Replace GIF with simple year text in a styled div -->
-          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
-            <h4 align="center">2024</h4>
-          </div>
+        <td width="15%">
+          <img src="https://media.giphy.com/media/RNeR4JPQDFXu8/giphy.gif" width="100%">
+          <h4 align="center">2024</h4>
         </td>
         <td width="85%">
           <h3>Electronics Intern | Canspirit AI</h3>
           <ul>
-            <li>Integrated IoT devices with Arduino Cloud for efficient data collection</li>
-            <li>Developed cross-platform data logging systems that improved processing efficiency by 25%</li>
+            <li>Developed ROS2 drivers for IoT sensor integration and real-time data processing</li>
+            <li>Implemented cross-platform logging systems using ROS2 bag files for efficient data collection</li>
           </ul>
         </td>
       </tr>
       <tr>
-        <td width="15%" align="center">
-          <!-- Replace GIF with simple year text in a styled div -->
-          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
-            <h4 align="center">2023-2024</h4>
-          </div>
+        <td width="15%">
+          <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100%">
+          <h4 align="center">2023-2024</h4>
         </td>
         <td width="85%">
-          <h3>Electronics Developer | Indkarta LLP</h3>
+          <h3>Embedded Systems Developer | Indkarta LLP</h3>
           <ul>
-            <li>Developed embedded systems for medication processing in clinical settings</li>
-            <li>Designed custom PCB layouts for improved reliability in real-world applications</li>
+            <li>Created embedded firmware with ROS2 micro-ROS for low-latency communication</li>
+            <li>Designed custom PCB layouts for integration with ROS2-based control systems</li>
           </ul>
         </td>
       </tr>
@@ -198,49 +184,52 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-<h1 align="center">🛠️ Tech Stack</h1>
+
+<h1 align="center">🛠️ ROS & Robotics Tech Stack</h1>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" align="center">
-        <h3>Robotics & Simulation</h3>
-        <img src="https://skillicons.dev/icons?i=ros,opencv" width="120px">
+        <h3>ROS2 Framework</h3>
+        <img src="https://skillicons.dev/icons?i=ros,cpp,python" width="120px">
         <br>
-        <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
-        <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
-        <img src="https://img.shields.io/badge/SLAM-00599C?style=for-the-badge" alt="SLAM">
-        <img src="https://img.shields.io/badge/Nav2-00599C?style=for-the-badge" alt="Navigation">
+        <img src="https://img.shields.io/badge/ROS2_Humble-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2">
+        <img src="https://img.shields.io/badge/Nav2-00599C?style=for-the-badge&logo=ros&logoColor=white" alt="Nav2">
+        <img src="https://img.shields.io/badge/rclcpp-E6352C?style=for-the-badge&logo=ros&logoColor=white" alt="rclcpp">
+        <img src="https://img.shields.io/badge/rclpy-3670A0?style=for-the-badge&logo=ros&logoColor=white" alt="rclpy">
+        <img src="https://img.shields.io/badge/ROS2_Actions-F58113?style=for-the-badge&logo=ros&logoColor=white" alt="Actions">
       </td>
       <td width="50%" align="center">
-        <h3>Hardware Platforms</h3>
-        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" width="80px">
+        <h3>Perception & Planning</h3>
+        <img src="https://skillicons.dev/icons?i=opencv" width="40px">
         <br>
-        <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson">
-        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
-        <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-        <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+        <img src="https://img.shields.io/badge/SLAM_Toolbox-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="SLAM">
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV">
+        <img src="https://img.shields.io/badge/TF2-00599C?style=for-the-badge&logo=ros&logoColor=white" alt="TF2">
+        <img src="https://img.shields.io/badge/Costmap_2D-E6352C?style=for-the-badge&logo=ros&logoColor=white" alt="Costmap">
+        <img src="https://img.shields.io/badge/Sensor_Fusion-3670A0?style=for-the-badge&logo=ros&logoColor=white" alt="Fusion">
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <h3>Programming Languages</h3>
-        <img src="https://skillicons.dev/icons?i=python,cpp,c" width="120px">
+        <h3>Simulation</h3>
         <br>
-        <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-        <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" alt="MicroPython">
+        <img src="https://img.shields.io/badge/Gazebo-F58113?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo">
+        <img src="https://img.shields.io/badge/RViz-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="RViz">
+        <img src="https://img.shields.io/badge/URDF-00599C?style=for-the-badge&logo=ros&logoColor=white" alt="URDF">
+        <img src="https://img.shields.io/badge/xacro-E6352C?style=for-the-badge&logo=ros&logoColor=white" alt="Xacro">
+        <img src="https://img.shields.io/badge/Foxglove-3670A0?style=for-the-badge" alt="Foxglove">
       </td>
       <td width="50%" align="center">
-        <h3>Development Tools</h3>
-        <img src="https://skillicons.dev/icons?i=git,vscode,linux" width="120px">
+        <h3>Hardware Integration</h3>
+        <img src="https://skillicons.dev/icons?i=raspberrypi,arduino" width="80px">
         <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-        <img src="https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad">
+        <img src="https://img.shields.io/badge/Jetson_Nano-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Jetson">
+        <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi">
+        <img src="https://img.shields.io/badge/micro_ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="micro-ROS">
+        <img src="https://img.shields.io/badge/LiDAR-00599C?style=for-the-badge" alt="LiDAR">
+        <img src="https://img.shields.io/badge/IMU-E6352C?style=for-the-badge" alt="IMU">
       </td>
     </tr>
   </table>
@@ -250,7 +239,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h1 align="center">📊 GitHub Stats</h1>
+<h1 align="center">📊 ROS Contributions</h1>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img width="410" src="https://github-profile-trophy.vercel.app/?username=pranavk-2003&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=3" alt="pranavk-2003">
@@ -266,33 +255,30 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<h1 align="center">🌱 Learning Journey</h1>
+<h1 align="center">🌱 ROS Learning Journey</h1>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <!-- Replace GIF with ROS icon -->
-        <div style="font-size: 30px; color: #F85D7F;">
-          <i class="devicon-ros-plain"></i>
+        <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60px">
+        <h4>ROS2 Navigation Stack</h4>
+        <div style="background-color: #191919; border-radius: 5px; padding: 2px;">
+          <div style="background: linear-gradient(to right, #F85D7F 90%, #191919 10%); width: 100%; height: 20px; border-radius: 4px;"></div>
         </div>
-        <h4>ROS2 Humble</h4>
+        <span>90%</span>
+      </td>
+      <td align="center">
+        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="60px">
+        <h4>SLAM Algorithms</h4>
         <div style="background-color: #191919; border-radius: 5px; padding: 2px;">
           <div style="background: linear-gradient(to right, #F85D7F 85%, #191919 15%); width: 100%; height: 20px; border-radius: 4px;"></div>
         </div>
         <span>85%</span>
       </td>
       <td align="center">
-        <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="60px">
-        <h4>Deep Learning</h4>
-        <div style="background-color: #191919; border-radius: 5px; padding: 2px;">
-          <div style="background: linear-gradient(to right, #F85D7F 70%, #191919 30%); width: 100%; height: 20px; border-radius: 4px;"></div>
-        </div>
-        <span>70%</span>
-      </td>
-      <td align="center">
         <img src="https://media.giphy.com/media/RNeR4JPQDFXu8/giphy.gif" width="60px">
-        <h4>Real-time SLAM</h4>
+        <h4>ROS2 Custom Controllers</h4>
         <div style="background-color: #191919; border-radius: 5px; padding: 2px;">
           <div style="background: linear-gradient(to right, #F85D7F 80%, #191919 20%); width: 100%; height: 20px; border-radius: 4px;"></div>
         </div>
@@ -302,9 +288,9 @@
         <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="60px">
         <h4>Multi-robot Coordination</h4>
         <div style="background-color: #191919; border-radius: 5px; padding: 2px;">
-          <div style="background: linear-gradient(to right, #F85D7F 60%, #191919 40%); width: 100%; height: 20px; border-radius: 4px;"></div>
+          <div style="background: linear-gradient(to right, #F85D7F 75%, #191919 25%); width: 100%; height: 20px; border-radius: 4px;"></div>
         </div>
-        <span>60%</span>
+        <span>75%</span>
       </td>
     </tr>
   </table>
@@ -321,10 +307,10 @@
     <tr>
       <td>
         <img align="center" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100">
-        <h3 align="center">I love connecting with different people!</h3>
+        <h3 align="center">Let's collaborate on ROS projects!</h3>
         <p align="center">
-          <b>Feel free to reach out and introduce yourself.</b><br>
-          <em>I'm currently looking for opportunities in robotics and autonomous systems!</em>
+          <b>I'm always open to discussing robotics challenges and solutions.</b><br>
+          <em>Currently seeking opportunities in ROS2 development and autonomous navigation!</em>
         </p>
       </td>
     </tr>
@@ -348,5 +334,5 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=50&animation=fadeIn&fontAlignY=65" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer&text=Let's%20build%20intelligent%20robots!&fontSize=50&animation=fadeIn&fontAlignY=65" width="100%">
 </div>
