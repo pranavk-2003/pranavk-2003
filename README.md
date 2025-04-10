@@ -130,9 +130,11 @@
   <div align="left">
     <table>
       <tr>
-        <td width="15%">
-          <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="100%">
-          <h4 align="center">2025-Present</h4>
+        <td width="15%" align="center">
+          <!-- Replace GIF with simple year text in a styled div -->
+          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
+            <h4 align="center">2025-Present</h4>
+          </div>
         </td>
         <td width="85%">
           <h3>Junior Robotics Developer | Ondroid Finland</h3>
@@ -144,9 +146,11 @@
         </td>
       </tr>
       <tr>
-        <td width="15%">
-          <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%">
-          <h4 align="center">2024</h4>
+        <td width="15%" align="center">
+          <!-- Replace GIF with simple year text in a styled div -->
+          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
+            <h4 align="center">2024</h4>
+          </div>
         </td>
         <td width="85%">
           <h3>Robotics Lead | Robocon 2024</h3>
@@ -158,9 +162,11 @@
         </td>
       </tr>
       <tr>
-        <td width="15%">
-          <img src="https://media.giphy.com/media/RNeR4JPQDFXu8/giphy.gif" width="100%">
-          <h4 align="center">2024</h4>
+        <td width="15%" align="center">
+          <!-- Replace GIF with simple year text in a styled div -->
+          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
+            <h4 align="center">2024</h4>
+          </div>
         </td>
         <td width="85%">
           <h3>Electronics Intern | Canspirit AI</h3>
@@ -171,9 +177,11 @@
         </td>
       </tr>
       <tr>
-        <td width="15%">
-          <img src="https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif" width="100%">
-          <h4 align="center">2023-2024</h4>
+        <td width="15%" align="center">
+          <!-- Replace GIF with simple year text in a styled div -->
+          <div style="background-color: #1A1B27; border-radius: 6px; padding: 10px; margin-bottom: 5px;">
+            <h4 align="center">2023-2024</h4>
+          </div>
         </td>
         <td width="85%">
           <h3>Electronics Developer | Indkarta LLP</h3>
