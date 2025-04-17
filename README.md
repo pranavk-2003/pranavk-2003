@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F73F6F&center=true&vCenter=true&random=false&width=600&height=70&lines=ROS2+Navigation+Expert;SLAM+%26+Path+Planning+Specialist;Robotics+Competition+Champion;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=F73F6F&center=true&vCenter=true&random=false&width=600&height=70&lines=ROS2;Navigation;SLAM;Path+Planning;Robotics;Building+Intelligent+Autonomous+Systems" alt="Typing SVG" />
 </p>
 
 <div align="center">
